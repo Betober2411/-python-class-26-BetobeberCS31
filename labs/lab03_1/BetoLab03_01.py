@@ -28,7 +28,7 @@ while choice == "y":
     elif cost_per_gallon <= 0:
         print("Cost per gallon must be greater than zero. Please try again.")
     else:
-        # calculate the results
+        # calculate the results324
         mpg = round(miles_driven / gallons_used, 2)
         total_gas_cost = round(gallons_used * cost_per_gallon, 2)
         cost_per_mile = round(total_gas_cost / miles_driven, 2)
