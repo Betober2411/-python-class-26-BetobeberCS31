@@ -11,12 +11,12 @@ Pennsylvania counties (Berks, Dauphin, Bucks/Ducks, Lancaster, Montgomery, Chest
 requires a prototype program that simulates an interactive sales and registration conversation 
 with a licensed USSF soccer referee.
 
-This Jupyter Notebook satisfies all 15 operational steps detailed in `V10_RefereeAssignr.pdf` and incorporates data from the tournament management tables:
+This Jupyter Notebook satisfies all 15 operational steps detailed in `V11_RefereeAssignr.pdf` and incorporates data from the tournament management tables:
 - **`Leagues.txt`**: Directory of participating leagues and team breakdowns by age bracket.
 - **`Facilities.txt`**: Venues, complexes, addresses, and field counts across PA counties.
 - **`Categories.txt`**: Age categories, division duration, halftime intervals, and total time slots.
 - **`Teams.txt`**: Registered youth squads, divisions, genders, and league affiliations.
-- **`Main11.txt`**: Master match schedule comprising 236 fixtures across 5 tournament weekends.
+- **`Main11.txt`**: Mastner match schedule comprising 236 fixtures across 5 tournament weekends.
 =============================================================================
 """
 
